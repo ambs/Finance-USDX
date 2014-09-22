@@ -15,15 +15,6 @@ use Finance::Quote;
 
 Finance::USDX - Compute USDX (US Dollar Index)
 
-=head1 VERSION
-
-Version 0.02
-
-=cut
-
-our $VERSION = '0.02';
-
-
 =head1 SYNOPSIS
 
     use Finance::USDX;
